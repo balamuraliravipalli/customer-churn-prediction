@@ -33,11 +33,6 @@ customer-churn-prediction/
 ├── README.md
 └── requirements.txt # Python dependencies
 
-yaml
-Copy code
-
----
-
 ## Getting Started
 1. **Clone the repository**
 ```bash
