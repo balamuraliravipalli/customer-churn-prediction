@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Customer Churn Prediction
 
 ## Project Overview
