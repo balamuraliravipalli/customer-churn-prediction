@@ -103,4 +103,4 @@ POST	/predict	Predict churn
   "predictions": [0],
   "probabilities": [0.12]
 }
->>>>>>> eb58951 (Initial commit: Customer Churn Prediction API with FastAPI, scikit-learn, and model pipeline)
+Customer Churn Prediction API with FastAPI, scikit-learn, and model pipeline.
